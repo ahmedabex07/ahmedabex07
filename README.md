@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmedabex07
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Big Data
-- 💞️ I’m looking to collaborate on machine learning and data science related solutions
+- 🌱 I’m currently working in BI OPS team
+- 💞️ I’m looking to collaborate on machine learning, Linux and data science related solutions
 - 📫 How to reach me ...+92-3126255329
 
 <!---
